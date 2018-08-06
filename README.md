@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Test description
 
 ## What it does
 
-FEATURES PLACEHOLDER
+JavaScript learn
 
 ## Getting started
 
